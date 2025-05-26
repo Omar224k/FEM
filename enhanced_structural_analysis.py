@@ -1,6 +1,7 @@
 """
 Comprehensive Structural Analysis Program using Stiffness Matrix Method
-
+under supervision of Prof. Mostafa Shawky 
+Done by Students Omar Anwer - Mahmoud Khaled - Zakaria khedr
 This program performs structural analysis of determinate/indeterminate frames and trusses
 using the Direct Stiffness Method. It can handle:
 - 2D Frame elements (with bending)
